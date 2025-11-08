@@ -1,0 +1,10 @@
+# C++ compiled objects and executables
+*.o
+*.out
+a.out
+
+# Specific executables based on source files
+ejemplo1
+ejercicios-basicos/01practica
+ejercicios-basicos/uno
+scope_tiempoDeVida/explicacion
