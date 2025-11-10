@@ -1,10 +1,15 @@
-# C++ compiled objects and executables
+# Ignorar archivos de compilación de C++
 *.o
 *.out
+*.a
+*.so
+*.dll
+
+# Ignorar ejecutables comunes
 a.out
 
-# Specific executables based on source files
+# Ignorar ejecutables generados desde archivos fuente específicos (en cualquier carpeta)
 ejemplo1
-ejercicios-basicos/01practica
-ejercicios-basicos/uno
-scope_tiempoDeVida/explicacion
+01practica
+uno
+explicacion
