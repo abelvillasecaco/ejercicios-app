@@ -1,0 +1,15 @@
+# Ignorar archivos de compilación de C++
+*.o
+*.out
+*.a
+*.so
+*.dll
+
+# Ignorar ejecutables comunes
+a.out
+
+# Ignorar ejecutables generados desde archivos fuente específicos (en cualquier carpeta)
+ejemplo1
+01practica
+uno
+explicacion
