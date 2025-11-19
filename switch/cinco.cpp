@@ -30,6 +30,7 @@ int main() {
                break;
       case 4:
       case 6:
+      case 9:
       case 11: dias = 30;
                break;
       case 2: dias = bisiesto ? 29 : 28; // Operador ternario
